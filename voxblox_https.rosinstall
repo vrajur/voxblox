@@ -1,4 +1,10 @@
 - git:
+    local-name: numpy_eigen
+    uri: https://github.com/ethz-asl/numpy_eigen.git
+- git:
+    local-name: catkin_boost_python_buildtool
+    uri: https://github.com/ethz-asl/catkin_boost_python_buildtool.git
+- git:
     local-name: catkin_simple
     uri: https://github.com/catkin/catkin_simple.git
 - git:
@@ -24,5 +30,5 @@
     uri: https://github.com/ethz-asl/protobuf_catkin.git
 - git:
     local-name: voxblox
-    uri: https://github.com/ethz-asl/voxblox.git
+    uri: https://github.com/vrajur/voxblox.git
 
